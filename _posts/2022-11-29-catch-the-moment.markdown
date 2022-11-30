@@ -25,7 +25,7 @@ All entries should be submitted to the Library by 3:00 P.M. on or before 31st De
  Students  & Alumnus of Sacred Heart College, Thevara. 
 
 # How Can You Join the Contest ?
-You can join the contest by filling in your details in the Google form provided. There will be no registration fee. Registration will be closed on 09 December 2022.
+You can join the contest by filling in your details in the [Google form]([http://example.com/](https://docs.google.com/forms/d/e/1FAIpQLSdauIi5G0uZOm7ka6racxz-Sa-AA0JXRtzg1tGONYaG4r_8zw/viewform) )  provided. There will be no registration fee. Registration will be closed on 09 December 2022.
  
 # Prizes
 - First   	- Rs. 15000/-
