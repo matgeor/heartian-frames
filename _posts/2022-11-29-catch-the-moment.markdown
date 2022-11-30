@@ -13,19 +13,21 @@ image2: /assets/images/shcbg5.jpg
 # Overview   
 Sacred Heart College (Autonomous), Kochi, invites you to create a short video that captures the different facets of your life at the college. This competition is a platform where you can showcase your digital content through creative skills and pay homage to your college to make it the best. The format of the competition is in line with today’s fondness for short digital narratives. We welcome the up-and-coming content creators of SH to seize this opportunity. Unleash the artist in you and ignite your creativity!
 
+>Theme : My SH, my pride.
+
 # Dates
 
 Registrations: 01.12 - 09.12.2022
 
 Submissions:   01.12 - 09.12.2022
 
-All entries should be submitted to the Library by 3:00 P.M. on or before 31st December 2022.
+All entries should be submitted to the library by 3:00 P.M. on or before 31.12.2022.
 
-# Who Can Participate ?
- Students  & Alumnus of Sacred Heart College, Thevara. 
+# Who Can Join ?
+ Students  & alumnus of Sacred Heart College, Thevara. 
 
-# How Can You Join the Contest ?
-You can join the contest by filling in your details in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdauIi5G0uZOm7ka6racxz-Sa-AA0JXRtzg1tGONYaG4r_8zw/viewform)  provided. There will be no registration fee. Registration will be closed on 09 December 2022.
+# Registrations ?
+All contestants need to register for the contest by filling in their details in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdauIi5G0uZOm7ka6racxz-Sa-AA0JXRtzg1tGONYaG4r_8zw/viewform) provided. There will be no registration fee. Registration will be closed on 09.12.2022.
  
 # Prizes
 - First   	- Rs. 15000/-
