@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "email:"
 email: mathew.george@shcollege.ac.in
 #blog logo
 logo: "/assets/images/shc3.jpg"
-float_logo: true # true, false (default)
+float_logo: false # true, false (default)
 
 # blog cover
 cover: "/assets/images/shcbg5.jpg"
