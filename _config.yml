@@ -4,21 +4,21 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Catch The Moments"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Video Making Contest
 
-email: a-mail@mail.mail
+email: mathew.george@shcollege.ac.in
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/sh3.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/shcbg5.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Mathew George'
+author: 'Mathew George'
+#author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
