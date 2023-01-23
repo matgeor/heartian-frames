@@ -147,6 +147,7 @@ image2: /assets/images/shcbg5.jpg
 	4. `title('tt')`
 	5. `legend('tt', 'rr')`
 	
+	
 # Octave Scripts
 
 1. Scripting: preparation and usage of .m files
@@ -165,22 +166,26 @@ image2: /assets/images/shcbg5.jpg
 
 # The Simple Pendulum
 
-This is an experiment which is done, routinely by XII science students. The goal is to measure *g* at the location, by measuring time periods of pendula with varying lengths. The experimental data gathered by a students is given below. Make a $l-T^2$ graph as well as estimate *g* using the data provided.	
+This is an experiment which is done, routinely by XII science students. The goal is to measure *g* at the location, by measuring time periods of pendula with varying lengths. The experimental data gathered by a students is given below. 
 
-	| length(cm)  | T (s) |
-	| ----------- | ----------- |
-	| 5    |        |
-	| 10   |        |
-	| 15    |        |
-	| 20   |        |
-	| 5    |        |
-	| 10   |        |	
+1. Make a *l-T* and *l-T^2* graph as well as estimate *g* using the data provided.
+
+2. *g* may be found using the formula *g = (4pi^2)l/T^2*	
+
+	|l (cm)|T (s)|
+	|------|-----|
+	| 5    | 4.4 |
+	| 10   | 6.4 |
+	| 15   | 7.7 |
+	| 20   | 9.0 |
+	| 25   | 10.0|
+	| 30   | 11.0|
+	| 35   | 11.7|
+	| 40   | 12.6|
+	| 45   | 13.6|
+	| 50   | 14.2|	
 	
-	| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
+	
 # References : 
 
 The above material is made with the aid of the following references.
